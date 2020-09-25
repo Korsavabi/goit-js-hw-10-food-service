@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Korsavabi/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/korsavabi/goit-js-hw-10-food-service.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Korsavabi/goit-js-hw-10-food-service.git"
+    "url": "https://github.com/korsavabi/goit-js-hw-10-food-service.git"
   },
   "homepage": "",
   "devDependencies": {
